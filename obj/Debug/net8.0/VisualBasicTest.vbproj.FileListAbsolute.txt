@@ -1,0 +1,5 @@
+C:\Users\wills\Desktop\Shortcuts\Files\github\VisualBasicTest\obj\Debug\net8.0\VisualBasicTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wills\Desktop\Shortcuts\Files\github\VisualBasicTest\obj\Debug\net8.0\VisualBasicTest.AssemblyInfoInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\github\VisualBasicTest\obj\Debug\net8.0\VisualBasicTest.AssemblyInfo.vb
+C:\Users\wills\Desktop\Shortcuts\Files\github\VisualBasicTest\obj\Debug\net8.0\VisualBasicTest.vbproj.CoreCompileInputs.cache
+C:\Users\wills\Desktop\Shortcuts\Files\github\VisualBasicTest\obj\Debug\net8.0\VisualBasicTest.sourcelink.json
